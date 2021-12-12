@@ -41,13 +41,15 @@
   }
   
   .prev {
-      position: relative;
-      margin-right: -45px;
+      font-size: xx-large;
+      position: absolute;
+      left: 32%;
       z-index: 100;
   }
   
   .next {
-      position: relative;
-      margin-left: -45px;
+      font-size: xx-large;
+      position: absolute;
+      right: 34%;
       z-index: 100;
   }
